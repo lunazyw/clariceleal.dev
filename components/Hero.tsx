@@ -26,7 +26,7 @@ export default function Hero() {
             alt="Clarice Leal"
             width={400}
             height={400}
-            className="rounded-full border-4 border-primary object-cover aspect-square"
+            className="rounded-[10%] border-2 border-primary object-cover aspect-square"
           />
         </div>
       </div>
